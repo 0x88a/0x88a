@@ -1,7 +1,7 @@
 ### Hi 👋
-Welcome to my GitHub profile!
+Welcome to my GitHub profile, my name is 0x88 and I'm an independent full-stack developer based in the United Kingdom. 
 
-I'm a full-stack developer based in the United Kingdom. I often work with JavaScript, PHP and Rust to build my applications and frameworks like React to build my UX/UI; I also collaborate with and develop blockchain projects where I primarily use Solidity to develop ERC721 Contracts and create applications that are on Web 3.0.
+As a developer, I have a passion for making functional and simplistic interfaces alongside versatile and effecient backends; my languages of choice are Rust, Javascript and Solidity (among others). Outside of development, I enjoy exploring the world of art and music, photography and cooking.
 
 I'm a staunch advocate for privacy and open-source, so you can find most of my projects on my GitHub as well as on my <a href="https://0x88.dev/portfolio" target="_blank"> portfolio</a>.
 
