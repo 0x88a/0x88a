@@ -1,7 +1,7 @@
 ### Hi 👋
 Welcome to my GitHub profile, my name is 0x88 and I'm an independent full-stack developer based in the United Kingdom. 
 
-As a developer, I have a passion for making functional and simplistic interfaces alongside versatile and effecient backends; my languages of choice are Rust, Javascript and Solidity (among others). Outside of development, I enjoy exploring the world of art and music, photography and cooking.
+As a developer, I have a passion for making functional and simplistic interfaces alongside versatile and effecient backends; my languages of choice are Rust, Javascript and Solidity (among others). Outside of development, I enjoy fitness, music and photography.
 
 I'm a staunch advocate for privacy and open-source, so you can find most of my projects on my GitHub as well as on my <a href="https://0x88.dev/" target="_blank"> portfolio</a>.
 
